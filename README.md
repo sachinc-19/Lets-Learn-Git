@@ -1,4 +1,5 @@
 # Lets-Learn-Git
+## [Branching](/branching.md)
 ## How to reset, revert, and return to previous states in Git
 ## Hard delete unpublished commits
 If, on the other hand, you want to really get rid of everything you've done since then, there are two possibilities. One, if you haven't published any of these commits, simply reset:
