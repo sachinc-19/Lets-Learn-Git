@@ -2,6 +2,7 @@
 ## [Branching](/path/branching.md)
 ## [Merging](/path/merging.md)
 ## [Merging vs Rebasing](/path/merging_vs_rebasing.md)
+## [How to cleanly get/copy a remote git branch to local repository](https://stackoverflow.com/questions/11356460/how-to-cleanly-get-copy-a-remote-git-branch-to-local-repository)
 ## How to reset, revert, and return to previous states in Git
 ## Hard delete unpublished commits
 If, on the other hand, you want to really get rid of everything you've done since then, there are two possibilities. One, if you haven't published any of these commits, simply reset:
